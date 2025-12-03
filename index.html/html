@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O que é JavaScript?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O JavaScript é uma linguagem de programação</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O que é CSS?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O CSS é uma lingugem de estilização</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>Qual a montanha mais alta do mundo?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>Monte Everest.
+
+                            O Monte Everest tem 8.848 metros de altitude e localiza-se no Nepal, um país asiático que faz fronteira com a China e com a Índia.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O que é mais pesado, 1kg de algoão ou 1kg de chumbo?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>Nenhum, ambo posuem 1 kg.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>A que temperatura a água ferve?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>100 ºC é conhecido como o ponto de ebulição da água.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>AQuais são as fases da Lua?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>As fases da lua são quatro: nova, crescente, cheia e minguante. Cada uma delas dura 7 ou 8 dias.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>Se 1 anel tem 3 pedras, 11 anéis têm 33, pois 11 x 3 = 33.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p> <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>Quantos continentes existem?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>Há 6 continentes: América, Europa, África, Ásia, Oceania e Antártida </p>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+

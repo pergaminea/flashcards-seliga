@@ -1,0 +1,23 @@
+background: url(img/bg-desktop-red.webp);
+  font-family: Niramit;
+}
+.cartao_conteudo {
+  bakground-color: var(--card-front-color);
+  text-align: center;
+  hight: 100%;
+  transorm-tyle: preseve-3d;
+  transition: tranform 300m ease-in-out;
+}
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cartao {
+  margin: 1rem 1rem;
+  height: 20rem;
+  flex-grow: c1;
+flex-baasi: cal(33% - 6rem);
+}
+.carta_contudo p {
+  padding:4rem;
+}
